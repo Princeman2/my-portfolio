@@ -2,7 +2,7 @@
 
 **Modern, fully automated static website deployed on AWS with CI/CD pipeline**
 
-![Live Portfolio](screenshots/1-live-website.png)
+![Live Portfolio](1-live-website.png)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Built and automated a professional portfolio website on **AWS Free Tier** to demonstrate core **Cloud Engineering** and **DevOps** competencies. The solution features Infrastructure configuration, secure access management, and fully automated deployments.
 
-**Live Demo**: https://dncirrmczawoc.cloudfront.net/  
+**Live Demo**: [https://dncirrmczawoc.cloudfront.net](https://dncirrmczawoc.cloudfront.net)  
 **Status**: Production-ready | Fully Automated
 
 ---
@@ -41,22 +41,22 @@ Built and automated a professional portfolio website on **AWS Free Tier** to dem
 ## 📸 Project Highlights
 
 ### 1. Live Professional Portfolio
-![Live Website](screenshots/1-live-website.png)
+![Live Website](1-live-website.png)
 
 ### 2. S3 Static Website Hosting
-![S3 Bucket Configuration](screenshots/2-s3-bucket.png)
+![S3 Bucket Configuration](2-s3-bucket.png)
 
 ### 3. CloudFront Global CDN
-![CloudFront Distribution](screenshots/3-cloudfront.png)
+![CloudFront Distribution](3-cloudfront.png)
 
 ### 4. Automated CI/CD Pipeline
-![GitHub Actions Workflow](screenshots/4-github-actions.png)
+![GitHub Actions Workflow](4-github-actions.png)
 
 ### 5. IAM User & Permissions
-![IAM User Permissions](screenshots/5-iam-policy.png)
+![IAM User Permissions](5-iam-permissions.png)
 
 ### 6. Least Privilege Policy (JSON)
-![Custom IAM Policy](screenshots/6-iam-policy-json.png)
+![Custom IAM Policy](6-iam-policy-json.png)
 
 ---
 
@@ -83,7 +83,7 @@ Built and automated a professional portfolio website on **AWS Free Tier** to dem
 - **Cloud Services**: Deep understanding of S3 static hosting and CloudFront CDN
 - **DevOps Practices**: End-to-end automation and CI/CD principles
 - **Security Best Practices**: Least privilege access and secure credential handling
-- **Troubleshooting**: IAM permission issues and CloudFront caching behavior
+- **Troubleshooting**: IAM permission issues and CloudFront caching behaviour
 - **Documentation**: Clear technical communication for future team collaboration
 
 ---
