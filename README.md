@@ -10,7 +10,7 @@
 
 Built and automated a professional portfolio website on **AWS Free Tier** to demonstrate core **Cloud Engineering** and **DevOps** competencies. The solution features Infrastructure configuration, secure access management, and fully automated deployments.
 
-**Live Demo**: [https://dxxxxxxxxxxxx.cloudfront.net](https://your-cloudfront-url.cloudfront.net)  
+**Live Demo**: [https://dxxxxxxxxxxxx.cloudfront.net](https://dncirrmczawoc.cloudfront.net/)  
 **Status**: Production-ready | Fully Automated
 
 ---
