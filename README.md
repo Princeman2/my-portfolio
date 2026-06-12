@@ -10,7 +10,7 @@
 
 Built and automated a professional portfolio website on **AWS Free Tier** to demonstrate core **Cloud Engineering** and **DevOps** competencies. The solution features Infrastructure configuration, secure access management, and fully automated deployments.
 
-**Live Demo**: [https://dxxxxxxxxxxxx.cloudfront.net](https://dncirrmczawoc.cloudfront.net/)  
+**Live Demo**: https://dncirrmczawoc.cloudfront.net/  
 **Status**: Production-ready | Fully Automated
 
 ---
@@ -69,7 +69,7 @@ Built and automated a professional portfolio website on **AWS Free Tier** to dem
    - Configured CloudFront distribution for global delivery and HTTPS
 
 2. **Security Implementation**
-   - Designed a custom IAM policy following **least privilege** principle
+   - Designed custom IAM policy following **least privilege** principle
    - Secured S3 access via proper bucket policies
 
 3. **CI/CD Pipeline**
@@ -83,7 +83,7 @@ Built and automated a professional portfolio website on **AWS Free Tier** to dem
 - **Cloud Services**: Deep understanding of S3 static hosting and CloudFront CDN
 - **DevOps Practices**: End-to-end automation and CI/CD principles
 - **Security Best Practices**: Least privilege access and secure credential handling
-- **Troubleshooting**: IAM permission issues and CloudFront caching behaviour
+- **Troubleshooting**: IAM permission issues and CloudFront caching behavior
 - **Documentation**: Clear technical communication for future team collaboration
 
 ---
@@ -98,4 +98,5 @@ Built and automated a professional portfolio website on **AWS Free Tier** to dem
 
 ---
 
-## 📂 Project Structure
+**Built with ❤️ on AWS Free Tier**  
+**Completed**: June 2026
